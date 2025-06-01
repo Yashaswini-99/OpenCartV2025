@@ -1,0 +1,3 @@
+21:15:53.428 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:38)oggger - Validating confirmation message
+21:16:00.720 [main] INFO  testCases.TC002_AccountLogin.verify_AccountLogin(TC002_AccountLogin.java:14)oggger - *******starting TC002_AccountLogin********
+21:16:02.596 [main] INFO  testCases.TC002_AccountLogin.verify_AccountLogin(TC002_AccountLogin.java:33)oggger - *******finished TC002_AccountLogin********

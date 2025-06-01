@@ -1,0 +1,35 @@
+17:34:24.026 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\yasha\workspaces\YashaswiniWorkspace\Automation\OpenCartV2025\grid-docker.xml"
+17:34:26.283 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\yasha\workspaces\YashaswiniWorkspace\Automation\OpenCartV2025\grid-docker.xml
+
+17:47:13.417 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\yasha\workspaces\YashaswiniWorkspace\Automation\OpenCartV2025\grid-docker.xml"
+17:47:14.385 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\yasha\workspaces\YashaswiniWorkspace\Automation\OpenCartV2025\grid-docker.xml
+
+17:49:41.302 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\yasha\workspaces\YashaswiniWorkspace\Automation\OpenCartV2025\grid-docker.xml"
+17:50:53.615 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\yasha\workspaces\YashaswiniWorkspace\Automation\OpenCartV2025\grid-docker.xml"
+17:51:28.437 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\yasha\workspaces\YashaswiniWorkspace\Automation\OpenCartV2025\grid-docker.xml
+
+20:27:05.045 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\yasha\workspaces\YashaswiniWorkspace\Automation\OpenCartV2025\master.xml"
+20:32:00.307 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\yasha\workspaces\YashaswiniWorkspace\Automation\OpenCartV2025\master.xml"
+20:32:22.431 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:17)oggger - ******TC001_AccountRegistrationTest is started*******
+20:32:22.847 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:22)oggger - My Account is clicked
+20:32:23.642 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:24)oggger - Register is clicked
+20:32:23.642 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:26)oggger - Updating customer details
+20:32:26.125 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:38)oggger - Validating confirmation message
+20:32:36.766 [main] INFO  testCases.TC002_AccountLogin.verify_AccountLogin(TC002_AccountLogin.java:14)oggger - *******starting TC002_AccountLogin********
+20:32:39.255 [main] INFO  testCases.TC002_AccountLogin.verify_AccountLogin(TC002_AccountLogin.java:33)oggger - *******finished TC002_AccountLogin********
+20:52:38.128 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\yasha\workspaces\YashaswiniWorkspace\Automation\OpenCartV2025\master.xml"
+20:53:06.568 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:17)oggger - ******TC001_AccountRegistrationTest is started*******
+20:53:07.552 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:22)oggger - My Account is clicked
+20:53:08.722 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:24)oggger - Register is clicked
+20:53:08.725 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:26)oggger - Updating customer details
+20:53:11.398 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:38)oggger - Validating confirmation message
+20:53:22.568 [main] INFO  testCases.TC002_AccountLogin.verify_AccountLogin(TC002_AccountLogin.java:14)oggger - *******starting TC002_AccountLogin********
+20:53:24.694 [main] INFO  testCases.TC002_AccountLogin.verify_AccountLogin(TC002_AccountLogin.java:33)oggger - *******finished TC002_AccountLogin********
+21:15:36.392 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\yasha\workspaces\YashaswiniWorkspace\Automation\OpenCartV2025\master.xml"
+21:15:46.038 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:17)oggger - ******TC001_AccountRegistrationTest is started*******
+21:15:46.258 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:22)oggger - My Account is clicked
+21:15:51.651 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:24)oggger - Register is clicked
+21:15:51.651 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:26)oggger - Updating customer details
